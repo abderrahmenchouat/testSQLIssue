@@ -1,0 +1,2 @@
+# testSQLIssue
+hibernate returning generics
